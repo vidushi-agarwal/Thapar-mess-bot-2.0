@@ -1,5 +1,6 @@
 node_modules/
 agent/
+test/
 package-lock.json
 yarn.lock
 .firebaserc
